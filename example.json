@@ -1,13 +1,13 @@
 {
   "name": "The Future",
   "symbol": "FDROP",
-  "description": "A real city in the Metaverse, built by & for YOU!",
+  "description": "The Shapes",
   "externalUrl": "http://dropopolis.com",
   "properties": {
     "files": [
       {
         "type": "IMAGE",
-        "uri": "https://www.dropopolis.io/dropopolis_home/background_e.png"
+        "uri": "https://github.com/crcnum4/my-assets/raw/main/44.png"
       }
     ],
     "creators": [
