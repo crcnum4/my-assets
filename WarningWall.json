@@ -1,0 +1,30 @@
+{
+  "name": "Warning Wall",
+  "symbol": "WAWL",
+  "description": "Watch out it's coming",
+  "externalUrl": "http://dropopolis.com",
+  "properties": {
+    "files": [
+      {
+        "type": "IMAGE",
+        "uri": "https://github.com/crcnum4/my-assets/raw/main/WarningWall.jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "G3rsKbhnAhxrbDFYpvBEGcrtyhpoUggtVosQRKPn8tAa",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "name": "style",
+      "value": "spiral"
+    },
+    {
+      "name": "environment",
+      "value": "tunnel"
+    }
+  ]
+}

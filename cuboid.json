@@ -1,0 +1,30 @@
+{
+  "name": "Cuboid",
+  "symbol": "SPRL",
+  "description": "Join us",
+  "externalUrl": "http://dropopolis.com",
+  "properties": {
+    "files": [
+      {
+        "type": "IMAGE",
+        "uri": "https://github.com/crcnum4/my-assets/raw/main/cuboid.jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "G3rsKbhnAhxrbDFYpvBEGcrtyhpoUggtVosQRKPn8tAa",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "name": "style",
+      "value": "spiral"
+    },
+    {
+      "name": "environment",
+      "value": "tunnel"
+    }
+  ]
+}
