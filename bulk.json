@@ -1,0 +1,42 @@
+[
+  {
+    "name": "The Future",
+    "symbol": "FDROP2",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/44.json"
+  },
+  {
+    "name": "Capa",
+    "symbol": "CAPA",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/capa.json"
+  },
+  {
+    "name": "Warning Wall",
+    "symbol": "WAWL",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/WarningWall.json"
+  },
+  {
+    "name": "The Spiral",
+    "symbol": "SPRL",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/spiral.json"
+  },
+  {
+    "name": "Warning Wall",
+    "symbol": "WAWL",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/WarningWall.json"
+  },
+  {
+    "name": "Safe Wall",
+    "symbol": "SFWL",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/SafeWall.json"
+  },
+  {
+    "name": "The Flow",
+    "symbol": "FLOW",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/Flow.json"
+  },
+  {
+    "name": "Cuboid",
+    "symbol": "CUBD",
+    "uri": "https://github.com/crcnum4/my-assets/raw/main/cuboid.json"
+  }
+]
