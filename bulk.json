@@ -20,11 +20,6 @@
     "uri": "https://github.com/crcnum4/my-assets/raw/main/spiral.json"
   },
   {
-    "name": "Warning Wall",
-    "symbol": "WAWL",
-    "uri": "https://github.com/crcnum4/my-assets/raw/main/WarningWall.json"
-  },
-  {
     "name": "Safe Wall",
     "symbol": "SFWL",
     "uri": "https://github.com/crcnum4/my-assets/raw/main/SafeWall.json"
