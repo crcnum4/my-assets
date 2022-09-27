@@ -7,7 +7,7 @@
     "files": [
       {
         "type": "IMAGE",
-        "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/cuboid.jpg"
+        "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/cuboid.jpg"
       }
     ],
     "creators": [
@@ -28,3 +28,5 @@
     }
   ]
 }
+
+https://raw.githubusercontent.com/crcnum4/my-assets/main

@@ -2,43 +2,43 @@
   {
     "name": "The Future Store",
     "symbol": "FDROP2",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/44.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/44.json",
     "price":  25900000
   },
   {
     "name": "Capa Store",
     "symbol": "CAPA",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/capa.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/capa.json",
     "price": 1980000
   },
   {
     "name": "Warning Wall Store",
     "symbol": "WAWL",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/WarningWall.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/WarningWall.json",
     "price": 290000
   },
   {
     "name": "The Spiral Store",
     "symbol": "SPRL",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/spiral.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/spiral.json",
     "price": 4720000
   },
   {
     "name": "Safe Wall Store",
     "symbol": "SFWL",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/SafeWall.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/SafeWall.json",
     "price": 1967000
   },
   {
     "name": "The Flow Store",
     "symbol": "FLOW",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/Flow.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/Flow.json",
     "price": 178000
   },
   {
     "name": "Cuboid Store",
     "symbol": "CUBD",
-    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/raw/main/cuboid.json",
+    "uri": "https://raw.githubusercontent.com/crcnum4/my-assets/main/cuboid.json",
     "price": 1193000
   }
 ]
